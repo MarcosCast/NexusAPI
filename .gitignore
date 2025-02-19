@@ -1,0 +1,17 @@
+# Arquivos de ambiente virtual
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Dependências do Poetry
+poetry.lock
+
+# Arquivos de logs e cache
+*.log
+*.sqlite3
+.DS_Store
+
+# Configuração do VSCode 
+.vscode/
