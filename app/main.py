@@ -4,7 +4,7 @@ from app.core.nexus_config import settings
 
 app = FastAPI(
     title="Nexus API",
-    description="Hub centralizado para integração com múltiplas IAs",
+    description="A Nexus API será um Hub centralizado para integração com múltiplas IAs",
     version="0.1.0"
 )
 
